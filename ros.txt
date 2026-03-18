@@ -1,0 +1,9 @@
+ROS (Robot Operating System) is a framework used to build robot applications.
+
+It helps different parts of the robot communicate using nodes and topics.
+
+Nodes are small programs, and topics are used to send data between them.
+
+ROS supports Python and C++ and is widely used in robotics.
+
+It makes building and controlling robots easier.
