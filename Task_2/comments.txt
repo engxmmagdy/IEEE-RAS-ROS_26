@@ -1,0 +1,12 @@
+problem_1
+    Loops - If conditions
+problem_2
+    For Loop - How to read numbers from user
+problem_3
+    Functions related to complex numbers
+problem_4
+    How to write conditions
+problem_5
+    How to write different numbers like a string
+problem_6
+    Functions related to strings
