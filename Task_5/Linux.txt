@@ -1,0 +1,18 @@
+(1) "-rw-r--r--"
+     - : this is a file
+     rw- : owner can read and write 
+     r-- : group can read only
+     r-- : others can read only
+
+(2) script.sh is the executabale owner
+     all can execute it (-rwxr-xr-x)
+
+(3) secret.txt is the only one that is accessible by owner only
+     (-rw-------)
+
+(4) file.txt : everyone can read it
+    secret.txt : only owner can read and write
+
+(5) owner: user which made the file, represents rw- in (1)
+    group: users in common group, represent the first r-- in (1)  
+    others: anyone on the system, represent the second r-- in (1)
