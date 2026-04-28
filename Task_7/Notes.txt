@@ -1,0 +1,6 @@
+Problems respectively:
+  1- the new here is base class & sub subclass(Inheritance)
+  2- just involving lists in the game
+  3- using objects of a class in another class(Aggregation)
+  4- using objects attributes(self.name) of a class in another class(Aggregation)
+  5- using "Inheritance" & "Polymorphism" which is using single method in parent class and overriding it in childs
